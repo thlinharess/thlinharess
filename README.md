@@ -1,7 +1,7 @@
 ### Olá! Eu sou Thiago Linhares👍
 
 - 📚 Estudando JavaScript no Back-end e Node.js
-- ⚡ Aluno na academia de progração  Alura Online
+- ⚡ Aluno na academia de programação Alura Online
 
 <div align="center">
   <a href="https://linkedin.com/in/thiago-linhares-a17a23236/">
