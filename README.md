@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago Linhares👍
 
-- 📚  Estudando JavaScript no Back-end e Node.js
+- 📚  Estudando API's REST com express e MongoDB
 - ⚡  Aluno na academia de programação Alura Online
 
 <div align="center">
