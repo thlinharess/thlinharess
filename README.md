@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago Linhares👍
 
-- 📚  Estudando API's REST com express e MongoDB
+- 📚  Estudando API's REST com express e MongoDB + sequelize e MySQL
 - ⚡  Aluno na academia de programação Alura Online
 
 <div align="center">
