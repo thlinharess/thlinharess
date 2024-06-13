@@ -1,7 +1,6 @@
 ### Olá! Eu sou Thiago Linhares👍
 
-- 📚  Estudando API's REST com Mongoose e MongoDB + Sequelize e MySQL e Iniciando no TypeScript
-- ⚡  Aluno na academia de programação Alura
+  
 
 <div align="center">
   <a href="https://linkedin.com/in/thiago-linhares-a17a23236/">
@@ -9,7 +8,7 @@
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlinharess&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Ferramantas  
+## Ferramentas  
 <div style= "display: inline_block"><br>  
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
